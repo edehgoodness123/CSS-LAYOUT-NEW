@@ -1,0 +1,170 @@
+.docplanner group {
+    display: inline;
+    justify-content: right;
+/* color: aqua; */
+ }
+ .flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+
+
+ }
+  .About {
+    display: inline;
+   justify-content: right;
+   text-align: end;
+   padding-right: 50px;
+   justify-content: right;
+   color: aqua;
+    
+}
+.Career {
+    display: inline;
+    justify-content: right;
+    padding-right: 50px;
+   flex-direction: row;
+   justify-content: right;
+    
+}
+.Departments {
+    display: inline;
+    justify-content: right;
+    text-align: end;
+    padding-right: 50px;
+    
+}
+.image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-size: xx-small;
+}
+.Make {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-size: xx-large;
+    color: aqua;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 60% 20%;
+    padding: 1em;
+    grid-column-gap: 1em;
+    justify-content: center;
+}
+.patients {
+   background-color: aqua; 
+   width: 20%;
+   padding: 20px;
+   font-size: larger;
+   height: 300px;
+   margin: 50px;
+   shape-margin: 10px;
+
+}
+.for patience{
+    font-size: larger;
+    
+   
+
+}
+.Find {
+    font-size: larger;
+    }
+
+.globalcontainer{
+ color: aqua;
+    font-size: x-large;
+    justify-content: center;
+    display: grid;
+    
+}
+.global {
+    color: aqua;
+    font-size: x-large;
+    justify-content: center;
+}
+.company {
+    color: aqua;
+    font-size: x-large; 
+    justify-content: center;
+}
+.with {
+    color: aqua;
+    font-size: x-large; 
+    justify-content: center; 
+}
+.improve {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-size: xx-large;
+    color: aqua; 
+}
+.change {
+    font-size: small; 
+    justify-content: center; 
+    padding-right: 10px;
+    margin: 10px;
+    word-spacing: 10cm;
+}
+.more {
+    color: black;
+    font-size: medium;
+    justify-content: center; 
+    padding-right: 10px;
+    margin: 10px;
+       
+}
+.Changess {
+    color: black;
+    font-size: medium; 
+    justify-content: center; 
+    padding-right: 10px;
+    margin: 10px;
+         
+}
+.improves {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-size: xx-large;
+    color: aqua; 
+}
+.country {
+    display: flex;
+        flex-wrap: ;
+        gap: 10px;
+        width: 50px;
+}
+.globalcontainer {
+    display: flex;
+    justify-content: center;
+}
+.Znamylekar {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr ;
+    grid gap: 1em;
+}
+.big container {
+   text-align: center; 
+   font-size: large;
+   border: 5px solid aqua;
+   background-color: aqua;
+}
+.for patients{
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr ;
+    grid gap: 1em;
+}
+    border: 3px solid aqua;
+    background-color: aqua;
+    
+}
